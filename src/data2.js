@@ -73,65 +73,65 @@ const menu = [
   },
   {
     id: 11,
-    title: "quarantine buddy",
+    title: "alarm clock dinner",
     category: "LOVE",
-    price: 16.99,
+    price: 8.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855473/four_bharex.jpg",
     desc: `Eto ung nagpabuhat you nung speakerrr, cute ko rito wink`
   },
   {
     id: 12,
-    title: "quarantine buddy",
+    title: "broken eggs",
     category: "LOVE",
-    price: 16.99,
+    price: 6.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855473/three_c3l0c4.jpg",
     desc: `Another one of those mini galaa, sa kanluran to ehhh.`
   },
   {
     id: 13,
-    title: "quarantine buddy",
+    title: "the essential meal",
     category: "YOU",
-    price: 16.99,
+    price: 17.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855473/nine_ugy91v.jpg",
     desc: `Sayanggg, di na nakakatambay dyan sa house nyooo, lam mo na un hehe`
   },
   {
     id: 14,
-    title: "quarantine buddy",
+    title: "avocado toast",
     category: "YOU",
-    price: 16.99,
+    price: 8.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855472/eleven_nw90ai.jpg",
     desc: `eto ung di natuloy ung alis mo ata un hahahaha, cowla natin dto ghurl`
   },
   {
     id: 15,
-    title: "quarantine buddy",
+    title: "coffee friend",
     category: "YOU",
-    price: 16.99,
+    price: 5.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855472/fourteen_znxwmk.jpg",
     desc: `ang bagong gupit na lalaki vs ang pixie cut na babae`
   },
   {
     id: 16,
-    title: "quarantine buddy",
+    title: "creamy crepe",
     category: "YOU",
-    price: 16.99,
+    price: 15.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855471/eight_tjauhk.jpg",
     desc: `Eto ata ung pinakauna kong pag simba or prolly pangalawa dun sa church nyoo`
   },
   {
     id: 17,
-    title: "quarantine buddy",
+    title: "morning delight",
     category: "YOU",
-    price: 16.99,
+    price: 9.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855471/two_cgfp3q.jpg",
     desc: `Wawii, hesitant talaga ako sumama nung una dto HAHAHA, pero cowlaaaa, nameet ko mga circle of friends mo wieee`
   },
   {
     id: 18,
-    title: "quarantine buddy",
+    title: "life of pie",
     category: "YOU",
-    price: 16.99,
+    price: 13.99,
     img: "https://res.cloudinary.com/dkhziojjb/image/upload/v1633855471/thirteen_tpd1mk.jpg",
     desc: `Pogi mo naman dito pare, krazyy, mamahalin kita pag lalaki ka.`
   }
